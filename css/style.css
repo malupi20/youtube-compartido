@@ -83,7 +83,7 @@ nav {
 .perfil_redon {
     height: 5vh;
     width: 5vh; /* aqui nose el porque pero funciono poner mejor el vh en vez de vw */
-    background-color: #9b9999;
+    background-color: #ffffff;
     border: solid 2px #ffffff;
     border-radius: 50%;
     transition: background-color 0.3s;
